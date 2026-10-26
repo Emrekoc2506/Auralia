@@ -33,3 +33,10 @@ opencode.json
 *.zip
 
 .aider*
+.gemini/
+
+# Internal reports & guides (local only)
+*RAPORU.md
+*RAPOR*.md
+PERFORMANCE_REPORT.md
+docs/
