@@ -125,8 +125,8 @@ isa-proje/
 
 ### 1. Depoyu Klonlayın ve Bağımlılıkları Yükleyin
 ```bash
-git clone https://github.com/Emrekoc2506/isa_proje.git
-cd isa_proje
+git clone https://github.com/Emrekoc2506/Auralia.git
+cd Auralia
 npm install
 ```
 
