@@ -1,4 +1,4 @@
-<h1 align="center">🛍️ E-Commerce & Product Marketing Engine</h1>
+<h1 align="center">✨ Auralia — E-Commerce & Product Marketing Engine</h1>
 
 <p align="center">
   <strong>Yüksek Dönüşüm Odaklı, Gerçek Zamanlı ve Ölçeklenebilir Modern Ürün Pazarlama & E-Ticaret Platformu</strong>
@@ -17,7 +17,7 @@
 
 ## 📌 Proje Genel Bakışı
 
-Bu platform; dijital ürün pazarlaması ve modern e-ticaret operasyonlarını en üst düzey kullanıcı deneyimi ve performansla yürütmek üzere tasarlanmış **yeni nesil bir e-ticaret ön yüz (frontend) çözümüdür**.
+**Auralia**; dijital ürün pazarlaması ve modern e-ticaret operasyonlarını en üst düzey kullanıcı deneyimi ve performansla yürütmek üzere tasarlanmış **yeni nesil bir e-ticaret ön yüz (frontend) çözümüdür**.
 
 Kullanıcıların ürün keşfinden sipariş tamamlamaya kadar olan tüm funnel adımlarını kusursuz bir akışla deneyimlemesini sağlarken; arka planda **çift yönlü gerçek zamanlı veri akışı**, **otonom Google Merchant feed üretim hattı**, **sıfır gecikmeli token rotasyonu** ve **güçlü durum yönetimi** ile kurumsal standartlarda bir teknik altyapı sunar.
 
